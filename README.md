@@ -69,4 +69,4 @@ python python/imu_target_tracker.py --port COM3 --baud 115200
 **Begüm Aydoğan Çiçin**  
 *Mechatronics Engineer | Embedded Systems & Sensor Integration*  
 * Contact: `aydgnbegm@gmail.com`  
-* [LinkedIn](https://www.linkedin.com/in/begum-aydogan/)
+* [LinkedIn](https://www.linkedin.com/in/begüm-aydoğan-çiçin-a94098201)
